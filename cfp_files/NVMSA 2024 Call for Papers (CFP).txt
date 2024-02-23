@@ -72,8 +72,9 @@ The poster session at NVMSA 2024 offers a chance to showcase preliminary work an
 Poster submission is limited to a maximum of 2 pages, including all text, figures, tables, appendices, references, etc. Submitted extended abstracts undergo single-blind reviews. The extended abstracts must adhere to the formatting guidelines provided by IEEE conference papers and are included in the proceedings of NVMSA 2024.
 
 
- 	
-* Program Committee
+---------------------------------------------------------------------------------------------------------------------
+Program Committee
+---------------------------------------------------------------------------------------------------------------------
 
 Jalil Boukhobza, ENSTA Bretagne, Lab-STICC UMR 6285, France
 Da-Wei Chang, National Cheng Kung University
