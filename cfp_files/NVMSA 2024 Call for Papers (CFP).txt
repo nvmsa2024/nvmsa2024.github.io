@@ -1,0 +1,110 @@
+﻿---------------------------------------------------------------------------------------------------------------------
+The 13th IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA 2024)
+https://nvmsa2024.github.io/
+August 21 - 23, 2024, Sokcho, South Korea
+---------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------
+Call for Papers
+---------------------------------------------------------------------------------------------------------------------
+
+* Important Dates: 
+Abstract Submission Deadline: April 12, 2024 (AoE)
+Paper Submission Deadline: April 14, 2024 (AoE)
+Acceptance Notification: May 24, 2024 
+Camera Ready Submission: June 28, 2024
+
+NVMSA serves as a platform focusing on non-volatile memory systems and emerging memory technologies. It offers a unique opportunity for global researchers across various domains to discuss, share insights, and foster potential collaborations, thus accelerating advancements in NVM design and applications. NVMSA 2024 will present a technical program aimed at engaging participants from academia and industry. We welcome paper submissions covering diverse topics related to NVMs and associated areas, with a broad scope that includes, but is not limited to:
+
+Device/Circuit Design of NVM Systems:	
+* Emerging NVM Circuit Design
+* NVM Device Design
+* Error Correction for NVMs
+* Non-volatile Logic Circuit
+* Low Power NVM Circuit
+* NVM Architecture and Systems:	
+* Non-volatile Registers
+* Non-volatile Memory Architectures
+* Non-volatile Cache Design
+* NVM Neuromorphic Architectures
+* NVDIMM
+
+NVM Storage:	
+* Operating System Support for NVM
+* Compiler Optimization for NVM
+* NVM-based Storage Software
+* NVM-based Databases
+* NVM Controller Design
+
+NVM Applications:	
+* In-memory Computing
+* NVM for Big Data Analytics
+* NVM in Mobile Healthcare Applications
+* NVM in Wearable Applications
+* NVM in the Internet of Things
+
+
+Both research and industry track papers are solicited. Please make sure that your paper satisfies all the following requirements before being submitted.
+* All papers must be submitted electronically in PDF format.
+* The submitted manuscripts must describe original work not previously published and not concurrently submitted elsewhere.
+* Submissions must be no more than 6 pages in the IEEE conference proceedings format (two-column, single-space). 
+* Each paper will be peer reviewed by the program committee members. Depending on the number of accepted papers, authors of accepted papers may be asked to present either a short or long presentation. It is important to note that authors whose papers are accepted for a short presentation do not need to shorten the paper.  
+* Accepted papers will be submitted for inclusion into IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements.
+
+Please submit your paper through the EasyChair paper submission site.
+
+The review process is single-blinded, meaning that the names and affiliations of the authors are visible to the reviewers through the Paper Management System.
+See the IEEE Computer Society Paper Submission Policies for more details.
+
+* No Show Policy:
+For each accepted paper, one of the author(s) is required to register and attend the conference to present the work. If any author does not give a talk at the conference, the paper will *NOT* be included in IEEE Xplore nor EI indexed. Any alternative arrangements require approval by the program chairs. The default policy does not permit online video presentations. NVMSA fosters an environment where speakers and attendees interact directly for discussions.
+
+---------------------------------------------------------------------------------------------------------------------
+Call for Poster Presentation
+---------------------------------------------------------------------------------------------------------------------
+
+* Important Dates: 
+Poster Submission Deadline: June 25, 2024 (AoE)
+Acceptance Notification: June 30, 2024 
+
+The poster session at NVMSA 2024 offers a chance to showcase preliminary work and gather feedback not only from the non-volatile memory systems community but also from the real-time/embedded system community attending RTCSA, which is co-located with the conference. We welcome both research and industry presentations during the poster session, which will take place alongside the welcome reception. NVMSA 2024 invites presentations in the same areas outlined in the Call for Papers.
+
+Poster submission is limited to a maximum of 2 pages, including all text, figures, tables, appendices, references, etc. Submitted extended abstracts undergo single-blind reviews. The extended abstracts must adhere to the formatting guidelines provided by IEEE conference papers and are included in the proceedings of NVMSA 2024.
+
+
+ 	
+* Program Committee
+
+Jalil Boukhobza, ENSTA Bretagne, Lab-STICC UMR 6285, France
+Da-Wei Chang, National Cheng Kung University
+Li-Pin Chang, NYCU, Taiwan
+Yuan-Hao Chang, Institute of Information Science Academia Sinica
+Xianzhang Chen, Chongqing University
+Tseng-Yi Chen, National Central University
+Shuo-Han Chen, National Yang Ming Chiao Tung University
+Chien-Chung Ho, National Cheng Kung University
+Sun-Yuan Hsieh, National Cheng Kung University
+Jen-Wei Hsieh, National Taiwan University of Science and Technology
+Jaehyun Hwang, Sungkyunkwan University
+Changhee Jung, Purdue University
+Wang Kang, Beihang University
+Bryan S. Kim, Syracuse University
+Sang-Hoon Kim, Ajou University
+Joonsung Kim, Sungkyunkwan University
+Wook-Hee Kim, Konkuk University
+Gunjae Koo, Korea University
+Xueqing Li, Tsinghua University
+Yu-Pei Liang, National Chung Cheng University
+Patrick P. C. Lee, The Chinese University of Hong Kong
+Preet Ranjani Panda, Indian Institute of Technology Delhi
+Ryuichi Sakamoto, Tokyo Institute of Technology
+Zili Shao, The Chinese University of Hong Kong
+Liang Shi, East China Normal University
+Ming-Chang Yang, The Chinese University of Hong Kong
+Mingzhe Zhang, Institute of Information Engineering Chinese Academy of Sciences
+Youtao Zhang, University of Pittsburgh
+Mengying Zhao, Shandong University
+
+
+ Copyright © 2024 - All Rights Reserved - NVMSA2024
+  
