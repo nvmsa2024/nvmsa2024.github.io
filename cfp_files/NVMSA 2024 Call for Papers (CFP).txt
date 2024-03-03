@@ -105,6 +105,7 @@ Ming-Chang Yang, The Chinese University of Hong Kong
 Mingzhe Zhang, Institute of Information Engineering Chinese Academy of Sciences
 Youtao Zhang, University of Pittsburgh
 Mengying Zhao, Shandong University
+Eishi Arima, Technical University of Munich
 
 
  Copyright © 2024 - All Rights Reserved - NVMSA2024
