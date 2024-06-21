@@ -64,8 +64,8 @@ Call for Poster Presentation
 ---------------------------------------------------------------------------------------------------------------------
 
 * Important Dates: 
-Poster Submission Deadline: June 25, 2024 (AoE)
-Acceptance Notification: June 30, 2024 
+Poster Submission Deadline: July 2, 2024 (AoE)
+Acceptance Notification: July 7, 2024 
 
 The poster session at NVMSA 2024 offers a chance to showcase preliminary work and gather feedback not only from the non-volatile memory systems community but also from the real-time/embedded system community attending RTCSA, which is co-located with the conference. We welcome both research and industry presentations during the poster session, which will take place alongside the welcome reception. NVMSA 2024 invites presentations in the same areas outlined in the Call for Papers.
 
